@@ -5,10 +5,13 @@
 
 Ontdek een sfeervolle Franse bistro en maak kennis met gerechten die op klassieke, Franse wijze worden geserveerd. Oeh, là,là! Is het iets wat je aanspreekt? Een menu met bijna uitsluitend Franse gerechten die misschien een klein snufje van iets anders hebben, maar die zó op het menu van een Parijs’ restaurant kunnen staan. Durf te ontdekken en durf te genieten. Alles kan en laat je meevoeren door deze fameuze keuken!
 
-___Openingstijden__
+__Openingstijden__
 
 Maandag t/m zondag 17.00 - 23.00 uur
 (zaterdag vanaf 14.00u)
+
+#### Image:
+images/bistro-louis-het-restaurant-d8483.jpg
 
 #### Comment:
 Als paddenstoelen schieten ze uit de grond. De koffiespots in Eindhoven. Een aangename toevoeging is CoffeeLab. Qua interieur leuk, maar ook een beetje standaard (zoek maar eens op coffeebar op Pinterest). 
@@ -27,6 +30,9 @@ Hele lekkereThee
 Hele Dikke toast
 En uiteraard onze zelfgebakken taarten, brownies en blondies.
 Glutenvrij en Vegan! Het maakt ons niet uit!
+
+#### Image:
+images/coffeelab.jpg
 
 #### Comment:
 Heerlijke cappuccino die steeds met aandacht en veel liefde wordt bereid. Sinds de zomer van 2016 geniet ik bij Coffeelab van speciale koningscappuccino die wordt geserveerd metcaffeinevrije koffie, soyamelk of met cocosmelk. mmmme
