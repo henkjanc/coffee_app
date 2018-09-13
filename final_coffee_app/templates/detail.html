@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>CoffeeBar {{ coffeebar.name }}</h1>
+<hr>
+  <p>{{ coffeebar.name }}</p>
+  <p><img src="{{ url_for('static', filename=coffeebar.image) }}" style="max-width:100%"/>
+  <p>{{ coffeebar.description }}</p>
+{% endblock %}
+
+{% block comments %}
+  <h2> Comments </h2>
+  {% for comment in coffeebar.comments %}
+    <p>{{ comment.message }}</p>
+  {% endfor %}
+{% endblock %}

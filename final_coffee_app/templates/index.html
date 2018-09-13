@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Coffeebars</h1>
+
+  {% for coffeebar in coffeebars %}
+      <p>{{ coffeebar.name }}</p>
+      <p>{{ coffeebar.intro }}</p>
+      <p><a href="{{url_for('get', id=coffeebar.id)}}">Lees meer </a></p>
+      <hr/>
+  {% endfor %}
+
+{% endblock %}
