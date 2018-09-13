@@ -1,0 +1,19 @@
+<!doctype html>
+<title>{% block title %}{% endblock %} - CoffeeBar</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<nav>
+  <h1>CoffeeBarzz.com</h1>
+  <ul>
+      <li><span>Navigation: </span>
+      <li><a href="{{ url_for('index') }}">Home</a>
+      <li><a href=".">Log In</a>
+  </ul>
+</nav>
+<section class="content">
+  <header>
+    {% block header %}{% endblock %}
+  </header>
+  {% block content %}{% endblock %}
+  <hr/>
+  {% block comments %}{% endblock %}
+</section>
