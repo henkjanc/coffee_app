@@ -1,5 +1,6 @@
 # coffee_app
 
+Content-loading-script is available in [load.py](load.py)
 ## Content
 ### Bistro Louis
 
